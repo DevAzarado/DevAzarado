@@ -1,7 +1,6 @@
 
 DevAzarado/README.md
-
-💻 Desenvolvedor Full Stack | Criador de Conteúdo no YouTube 👋
+💻 Desenvolvedor Full Stack | Criador de Conteúdo no YouTube 
 
 Olá! 👋 Sou um Desenvolvedor Full Stack apaixonado por transformar ideias em código. Com 15 anos de experiência, sou especializada em C#, Angular e SQL Server.
 
